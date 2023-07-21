@@ -13,6 +13,5 @@ def even_only(numbers):
 print(even_only(numbers))
 
 #lists can be used to store multiple values that can be added to, removed from and ordered in different ways.
-    
-        
+
 
